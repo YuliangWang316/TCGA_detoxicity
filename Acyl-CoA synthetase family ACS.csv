@@ -1,0 +1,30 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:29567,ACSBG1,acyl-CoA synthetase bubblegum family member 1,,"BGM,FLJ30320,MGC14352,BG1,KIAA0631,hBG1,hsBG",15q25.1
+HGNC:24174,ACSBG2,acyl-CoA synthetase bubblegum family member 2,,"BGR,PRTD-NY3,DKFZp434K1635",19p13.3
+HGNC:21298,AACS,acetoacetyl-CoA synthetase,,"FLJ12389,SUR-5,ACSF1",12q24.31
+HGNC:26101,ACSF2,acyl-CoA synthetase family member 2,,"FLJ20920,ACSMW",17q21.33
+HGNC:27288,ACSF3,acyl-CoA synthetase family member 3,,,16q24.3
+HGNC:23993,AASDH,aminoadipate-semialdehyde dehydrogenase,,"NRPS998,LYS2,ACSF4",4q12
+HGNC:3569,ACSL1,acyl-CoA synthetase long chain family member 1,FACL2,"LACS2,LACS,ACS1,LACS1,FACL1",4q35.1
+HGNC:3570,ACSL3,acyl-CoA synthetase long chain family member 3,FACL3,"ACS3,PRO2194",2q36.1
+HGNC:3571,ACSL4,acyl-CoA synthetase long chain family member 4,"FACL4,MRX63,MRX68","ACS4,LACS4",Xq23
+HGNC:16526,ACSL5,acyl-CoA synthetase long chain family member 5,FACL5,"ACS5,ACS2",10q25.2
+HGNC:16496,ACSL6,acyl-CoA synthetase long chain family member 6,FACL6,"KIAA0837,ACS2,LACS5,LACS2",5q31.1
+HGNC:18049,ACSM1,acyl-CoA synthetase medium chain family member 1,BUCS1,MACS1,16p12.3
+HGNC:32017,ACSM2A,acyl-CoA synthetase medium chain family member 2A,ACSM2,"A-923A4.1,MGC150530",16p12.3
+HGNC:30931,ACSM2B,acyl-CoA synthetase medium chain family member 2B,ACSM2,"HXMA,HYST1046",16p12.3
+HGNC:10522,ACSM3,acyl-CoA synthetase medium chain family member 3,SAH,SA,16p12.3
+HGNC:32016,ACSM4,acyl-CoA synthetase medium chain family member 4,,,12p13.31
+HGNC:26060,ACSM5,acyl-CoA synthetase medium chain family member 5,,FLJ20581,16p12.3
+HGNC:31665,ACSM6,acyl-CoA synthetase medium chain family member 6,C10orf129,bA310E22.3,10q23.33
+HGNC:16091,ACSS1,acyl-CoA synthetase short chain family member 1,ACAS2L,"dJ568C11.3,AceCS2L,MGC33843",20p11.21
+HGNC:15814,ACSS2,acyl-CoA synthetase short chain family member 2,ACAS2,"ACS,ACSA,AceCS,dJ1161H23.1",20q11.22
+HGNC:24723,ACSS3,acyl-CoA synthetase short chain family member 3,,FLJ21963,12q21.31
+HGNC:10996,SLC27A2,solute carrier family 27 member 2,FACVL1,"FATP2,hFACVL1,VLACS,VLCS,HsT17226,ACSVL1",15q21.2
+HGNC:11000,SLC27A6,solute carrier family 27 member 6,,"FATP6,VLCS-H1,FACVL2,ACSVL2",5q23.3
+HGNC:10997,SLC27A3,solute carrier family 27 member 3,,"FATP3,MGC4365,ACSVL3",1q21.3
+HGNC:10998,SLC27A4,solute carrier family 27 member 4,,"FATP4,ACSVL4,FATP-4",9q34.11
+HGNC:10995,SLC27A1,solute carrier family 27 member 1,,"FATP1,FATP,MGC71751,FLJ00336,ACSVL5",19p13.11
+HGNC:10999,SLC27A5,solute carrier family 27 member 5,,"FATP5,VLACSR,VLCS-H2,VLCSH2,FACVL3,FLJ22987,ACSVL6,ACSB",19q13.43
+H,GLYAT,J,C,KM,KC
+C,BAAT,S,SM,OO,TG

@@ -1,0 +1,28 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome,Group
+HGNC:15,NATP,N-acetyltransferase pseudogene,AACP,,8p22,Arylamine N-acetyltransferases
+HGNC:7645,NAT1,N-acetyltransferase 1,AAC1,,8p22,Arylamine N-acetyltransferases
+HGNC:7646,NAT2,N-acetyltransferase 2,AAC2,,8p22,Arylamine N-acetyltransferases
+HGNC:19,AANAT,aralkylamine N-acetyltransferase,,,17q25.1,GCN5 related N-acetyltransferases
+HGNC:15904,KAT14,lysine acetyltransferase 14,CSRP2BP,,20p11.23,GCN5 related N-acetyltransferases
+HGNC:20696,ELP3,elongator acetyltransferase complex subunit 3,,,8p21.1,GCN5 related N-acetyltransferases
+HGNC:19980,GNPNAT1,glucosamine-phosphate N-acetyltransferase 1,,,14q22.1,GCN5 related N-acetyltransferases
+HGNC:4201,KAT2A,lysine acetyltransferase 2A,GCN5L2,,17q21.2,GCN5 related N-acetyltransferases
+HGNC:8638,KAT2B,lysine acetyltransferase 2B,PCAF,,3p24.3,GCN5 related N-acetyltransferases
+HGNC:18704,NAA10,"N-alpha-acetyltransferase 10, NatA catalytic subunit","ARD1,ARD1A",,Xq28,GCN5 related N-acetyltransferases
+HGNC:28125,NAA11,"N-alpha-acetyltransferase 11, NatA catalytic subunit",ARD1B,,4q21.21,GCN5 related N-acetyltransferases
+HGNC:15908,NAA20,"N-alpha-acetyltransferase 20, NatB catalytic subunit",NAT5,,20p11.23,GCN5 related N-acetyltransferases
+HGNC:19844,NAA30,"N-alpha-acetyltransferase 30, NatC catalytic subunit","C14orf35,NAT12",,14q22.3,GCN5 related N-acetyltransferases
+HGNC:25845,NAA40,"N-alpha-acetyltransferase 40, NatD catalytic subunit",NAT11,,11q13.1,GCN5 related N-acetyltransferases
+HGNC:29533,NAA50,"N-alpha-acetyltransferase 50, NatE catalytic subunit","MAK3,NAT13",,3q13.31,GCN5 related N-acetyltransferases
+HGNC:25875,NAA60,"N-alpha-acetyltransferase 60, NatF catalytic subunit",NAT15,,16p13.3,GCN5 related N-acetyltransferases
+HGNC:17996,NAGS,N-acetylglutamate synthase,,,17q21.31,GCN5 related N-acetyltransferases
+HGNC:30252,NAA80,"N-alpha-acetyltransferase 80, NatH catalytic subunit",NAT6,,3p21.31,GCN5 related N-acetyltransferases
+HGNC:18069,NAT8,N-acetyltransferase 8 (putative),,,2p13.1,GCN5 related N-acetyltransferases
+HGNC:26742,NAT8L,N-acetyltransferase 8 like,,,4p16.3,GCN5 related N-acetyltransferases
+HGNC:23133,NAT9,N-acetyltransferase 9 (putative),,,17q25.2,GCN5 related N-acetyltransferases
+HGNC:29830,NAT10,N-acetyltransferase 10,,,11p13,GCN5 related N-acetyltransferases
+HGNC:28918,NAT14,N-acetyltransferase 14 (putative),,,19q13.42,GCN5 related N-acetyltransferases
+HGNC:22030,NAT16,N-acetyltransferase 16 (putative),C7orf52,,7q22.1,GCN5 related N-acetyltransferases
+HGNC:27992,SATL1,spermidine/spermine N1-acetyl transferase like 1,,,Xq21.1,GCN5 related N-acetyltransferases
+HGNC:10540,SAT1,spermidine/spermine N1-acetyltransferase 1,SAT,,Xp22.11,GCN5 related N-acetyltransferases
+HGNC:23160,SAT2,spermidine/spermine N1-acetyltransferase family member 2,,,17p13.1,GCN5 related N-acetyltransferases

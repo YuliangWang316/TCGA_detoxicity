@@ -1,0 +1,33 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:12529,UGT1A,UDP glucuronosyltransferase family 1 member A complex locus,UGT1A@,UGT,2q37
+HGNC:12530,UGT1A1,UDP glucuronosyltransferase family 1 member A1,"UGT1,GNT1",UGT1A,2q37.1
+HGNC:12534,UGT1A2P,"UDP glucuronosyltransferase family 1 member A2, pseudogene",,UGT1BP,2q37.1
+HGNC:12535,UGT1A3,UDP glucuronosyltransferase family 1 member A3,,UGT1C,2q37.1
+HGNC:12536,UGT1A4,UDP glucuronosyltransferase family 1 member A4,,"HUG-BR2,UGT1D",2q37.1
+HGNC:12537,UGT1A5,UDP glucuronosyltransferase family 1 member A5,,UGT1E,2q37.1
+HGNC:12538,UGT1A6,UDP glucuronosyltransferase family 1 member A6,,"HLUGP,GNT1,UGT1F",2q37.1
+HGNC:12539,UGT1A7,UDP glucuronosyltransferase family 1 member A7,,UGT1G,2q37.1
+HGNC:12540,UGT1A8,UDP glucuronosyltransferase family 1 member A8,,UGT1H,2q37.1
+HGNC:12541,UGT1A9,UDP glucuronosyltransferase family 1 member A9,,"HLUGP4,LUGP4,UGT1AI",2q37.1
+HGNC:12531,UGT1A10,UDP glucuronosyltransferase family 1 member A10,,UGT1J,2q37.1
+HGNC:12532,UGT1A11P,"UDP glucuronosyltransferase family 1 member A11, pseudogene",,UGT1K,2q37.1
+HGNC:12533,UGT1A12P,"UDP glucuronosyltransferase family 1 member A12, pseudogene",,UGT1L,2q37.1
+HGNC:32191,UGT1A13P,"UDP glucuronosyltransferase family 1 member A13, pseudogene",,,2q37.1
+HGNC:12542,UGT2A1,UDP glucuronosyltransferase family 2 member A1 complex locus,,,4q13.3
+HGNC:28183,UGT2A2,UDP glucuronosyltransferase family 2 member A2,,,4q13.3
+HGNC:28528,UGT2A3,UDP glucuronosyltransferase family 2 member A3,,FLJ21934,4q13.2
+HGNC:12553,UGT2B4,UDP glucuronosyltransferase family 2 member B4,,UGT2B11,4q13.3
+HGNC:12554,UGT2B7,UDP glucuronosyltransferase family 2 member B7,,UGT2B9,4q13.2
+HGNC:12544,UGT2B10,UDP glucuronosyltransferase family 2 member B10,,,4q13.2
+HGNC:12545,UGT2B11,UDP glucuronosyltransferase family 2 member B11,,,4q13.2
+HGNC:12546,UGT2B15,UDP glucuronosyltransferase family 2 member B15,,UGT2B8,4q13.2
+HGNC:12547,UGT2B17,UDP glucuronosyltransferase family 2 member B17,,,4q13.2
+HGNC:12548,UGT2B24P,"UDP glucuronosyltransferase family 2 member B24, pseudogene",,,4q13.3
+HGNC:12549,UGT2B25P,"UDP glucuronosyltransferase family 2 member B25, pseudogene",,,4q13.2-q13.3
+HGNC:12550,UGT2B26P,"UDP glucuronosyltransferase family 2 member B26, pseudogene",,,4q13.2
+HGNC:12551,UGT2B27P,"UDP glucuronosyltransferase family 2 member B27, pseudogene",,,4q13.2
+HGNC:13479,UGT2B28,UDP glucuronosyltransferase family 2 member B28,,,4q13.2
+HGNC:12552,UGT2B29P,"UDP glucuronosyltransferase family 2 member B29, pseudogene",,,4q13.2
+HGNC:26625,UGT3A1,UDP glycosyltransferase family 3 member A1,,FLJ34658,5p13.2
+HGNC:27266,UGT3A2,UDP glycosyltransferase family 3 member A2,,,5p13.2
+HGNC:12555,UGT8,UDP glycosyltransferase 8,CGT,,4q26

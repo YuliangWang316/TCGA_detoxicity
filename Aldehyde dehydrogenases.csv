@@ -1,0 +1,20 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:402,ALDH1A1,aldehyde dehydrogenase 1 family member A1,"PUMB1,ALDH1",RALDH1,9q21.13
+HGNC:15472,ALDH1A2,aldehyde dehydrogenase 1 family member A2,,RALDH2,15q21.3
+HGNC:409,ALDH1A3,aldehyde dehydrogenase 1 family member A3,ALDH6,RALDH3,15q26.3
+HGNC:407,ALDH1B1,aldehyde dehydrogenase 1 family member B1,ALDH5,ALDHX,9p13.1
+HGNC:3978,ALDH1L1,aldehyde dehydrogenase 1 family member L1,FTHFD,"10-fTHF,FDH",3q21.3
+HGNC:26777,ALDH1L2,aldehyde dehydrogenase 1 family member L2,,"FLJ38508,mtFDH",12q23.3
+HGNC:404,ALDH2,aldehyde dehydrogenase 2 family member,,,12q24.12
+HGNC:405,ALDH3A1,aldehyde dehydrogenase 3 family member A1,ALDH3,,17p11.2
+HGNC:403,ALDH3A2,aldehyde dehydrogenase 3 family member A2,"SLS,ALDH10",FALDH,17p11.2
+HGNC:410,ALDH3B1,aldehyde dehydrogenase 3 family member B1,ALDH7,,11q13.2
+HGNC:411,ALDH3B2,aldehyde dehydrogenase 3 family member B2,ALDH8,,11q13.2
+HGNC:406,ALDH4A1,aldehyde dehydrogenase 4 family member A1,ALDH4,P5CDh,1p36.13
+HGNC:408,ALDH5A1,aldehyde dehydrogenase 5 family member A1,,"SSADH,SSDH",6p22.3
+HGNC:7179,ALDH6A1,aldehyde dehydrogenase 6 family member A1,MMSDH,,14q24.3
+HGNC:877,ALDH7A1,aldehyde dehydrogenase 7 family member A1,ATQ1,"EPD,PDE",5q23.2
+HGNC:15471,ALDH8A1,aldehyde dehydrogenase 8 family member A1,,ALDH12,6q23.3
+HGNC:412,ALDH9A1,aldehyde dehydrogenase 9 family member A1,"ALDH7,ALDH4,ALDH9",E3,1q24.1
+HGNC:28114,ALDH16A1,aldehyde dehydrogenase 16 family member A1,,MGC10204,19q13.33
+HGNC:9722,ALDH18A1,aldehyde dehydrogenase 18 family member A1,"GSAS,PYCS,SPG9",P5CS,10q24.1

@@ -1,0 +1,9 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:16354,ADHFE1,alcohol dehydrogenase iron containing 1,,FLJ32430,8q13.1
+HGNC:249,ADH1A,"alcohol dehydrogenase 1A (class I), alpha polypeptide",ADH1,,4q23
+HGNC:250,ADH1B,"alcohol dehydrogenase 1B (class I), beta polypeptide",ADH2,,4q23
+HGNC:251,ADH1C,"alcohol dehydrogenase 1C (class I), gamma polypeptide",ADH3,,4q23
+HGNC:252,ADH4,"alcohol dehydrogenase 4 (class II), pi polypeptide",,ADH-2,4q23
+HGNC:253,ADH5,"alcohol dehydrogenase 5 (class III), chi polypeptide",FDH,"ADH-3,ADHX,GSNOR",4q23
+HGNC:255,ADH6,alcohol dehydrogenase 6 (class V),,ADH-5,4q23
+HGNC:256,ADH7,"alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide",,ADH-4,4q23

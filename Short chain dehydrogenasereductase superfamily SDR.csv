@@ -1,0 +1,78 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:4116,GALE,UDP-galactose-4-epimerase,,SDR1E1,1p36.11
+HGNC:20324,TGDS,"TDP-glucose 4,6-dehydratase",,"TDPGD,SDR2E1",13q32.1
+HGNC:4369,GMDS,"GDP-mannose 4,6-dehydratase",,"GMD,SDR3E1",6p25.3
+HGNC:12390,GFUS,GDP-L-fucose synthase,TSTA3,"FX,P35B,SDR4E1",8q24.3
+HGNC:4800,HSD17B10,hydroxysteroid 17-beta dehydrogenase 10,"HADH2,MRXS10","ERAB,MHBD,17b-HSD10,ABAD,SDR5C1,MRPP2,CAMR",Xp11.22
+HGNC:17729,UXS1,UDP-glucuronate decarboxylase 1,,"FLJ23591,UGD,SDR6E1",2q12.2
+HGNC:17964,RDH11,retinol dehydrogenase 11,,"MDT1,SDR7C1,ARSDR1",14q24.1
+HGNC:19977,RDH12,retinol dehydrogenase 12,,"FLJ30273,SDR7C2,LCA13,RP53",14q24.1
+HGNC:19978,RDH13,retinol dehydrogenase 13,,SDR7C3,19q13.42
+HGNC:19979,RDH14,retinol dehydrogenase 14,,"PAN2,SDR7C4",2p24.2
+HGNC:28326,DHRS13,dehydrogenase/reductase 13,,"MGC23280,SDR7C5",17q11.2
+HGNC:18399,DHRSX,dehydrogenase/reductase X-linked,,"DHRS5X,DHRSXY,DHRSY,DHRS5Y,SDR46C1,SDR7C6",Xp22.33 and Yp11.2
+HGNC:5213,HSD17B4,hydroxysteroid 17-beta dehydrogenase 4,,"MFE-2,DBP,SDR8C1",5q23.1
+HGNC:1027,BDH1,3-hydroxybutyrate dehydrogenase 1,BDH,SDR9C1,3q29
+HGNC:5211,HSD17B2,hydroxysteroid 17-beta dehydrogenase 2,,"HSD17,SDR9C2",16q23.3
+HGNC:5209,HSD11B2,hydroxysteroid 11-beta dehydrogenase 2,,SDR9C3,16q22.1
+HGNC:16888,DHRS9,dehydrogenase/reductase 9,,"RDHL,3alpha-HSD,RETSDR8,RDH15,SDR9C4",2q31.1
+HGNC:9940,RDH5,retinol dehydrogenase 5,RDH1,"HSD17B9,SDR9C5",12q13.2
+HGNC:23316,HSD17B6,hydroxysteroid 17-beta dehydrogenase 6,,"HSE,RODH,SDR9C6",12q13.3
+HGNC:29958,SDR9C7,short chain dehydrogenase/reductase family 9C member 7,,"SDR-O,RDHS",12q13.3
+HGNC:29674,RDH16,retinol dehydrogenase 16,,"RODH-4,SDR9C8",12q13.3
+HGNC:26222,FAR1,fatty acyl-CoA reductase 1,MLSTD2,"FLJ22728,SDR10E1",11p15.3
+HGNC:25531,FAR2,fatty acyl-CoA reductase 2,MLSTD1,"FLJ10462,SDR10E2",12p11.22
+HGNC:5217,HSD3B1,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1","HSDB3,HSD3B",SDR11E1,1p12
+HGNC:5218,HSD3B2,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2",,SDR11E2,1p12
+HGNC:18324,HSD3B7,"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7",,"C(27)-3BETA-HSD,SDR11E3",16p11.2
+HGNC:18646,HSD17B12,hydroxysteroid 17-beta dehydrogenase 12,,"KAR,SDR12C1",11p11.2
+HGNC:5212,HSD17B3,hydroxysteroid 17-beta dehydrogenase 3,,SDR12C2,9q22.32
+HGNC:16475,HSDL1,hydroxysteroid dehydrogenase like 1,,SDR12C3,16q24.1
+HGNC:18572,HSDL2,hydroxysteroid dehydrogenase like 2,C9orf99,SDR13C1,9q32
+HGNC:15547,TDH,L-threonine dehydrogenase (pseudogene),,"FLJ25033,SDR14E1P",8p23.1
+HGNC:32389,BDH2,3-hydroxybutyrate dehydrogenase 2,DHRS6,"UCPA-OR,FLJ13261,UNQ6308,PRO20933,SDR15C1",4q24
+HGNC:17693,DHRS3,dehydrogenase/reductase 3,,"retSDR1,Rsdr1,SDR1,RDH17,SDR16C1",1p36.21
+HGNC:22960,HSD17B11,hydroxysteroid 17-beta dehydrogenase 11,DHRS8,"RetSDR2,17-BETA-HSD11,17-BETA-HSDXI,PAN1B,SDR16C2",4q22.1
+HGNC:18685,HSD17B13,hydroxysteroid 17-beta dehydrogenase 13,,"SCDR9,SDR16C3",4q22.1
+HGNC:19975,RDH10,retinol dehydrogenase 10,,SDR16C4,8q21.11
+HGNC:30311,SDR16C5,short chain dehydrogenase/reductase family 16C member 5,,"RDHE2,RDH-E2,EPHD-2",8q12.1
+HGNC:35413,SDR16C6P,"short chain dehydrogenase/reductase family 16C member 6, pseudogene",SDR16C6,,8q12.1
+HGNC:2754,DECR2,"2,4-dienoyl-CoA reductase 2",,"PDCR,SDR17C1",16p13.3
+HGNC:2753,DECR1,"2,4-dienoyl-CoA reductase 1",DECR,SDR18C1,8q21.3
+HGNC:16445,DHRS1,dehydrogenase/reductase 1,,"FLJ25430,MGC20204,SDR19C1",14q12
+HGNC:18985,DCXR,dicarbonyl and L-xylulose reductase,,"KIDCR,DCR,SDR20C1,HCR2,P34H",17q25.3
+HGNC:1548,CBR1,carbonyl reductase 1,CBR,SDR21C1,21q22.12
+HGNC:1549,CBR3,carbonyl reductase 3,,SDR21C2,21q22.12
+HGNC:7693,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9,NDUFS2L,"SDR22E1,CI-39k,COQ11",12p13.3
+HGNC:6905,MAT2B,methionine adenosyltransferase 2B,,"MATIIbeta,SDR23E1",5q34
+HGNC:28639,DHRS11,dehydrogenase/reductase 11,,"MGC4172,SDR24C1",17q12
+HGNC:18349,DHRS2,dehydrogenase/reductase 2,,"HEP27,SDR25C1",14q11.2
+HGNC:16985,DHRS4,dehydrogenase/reductase 4,,"SCAD-SRL,SDR-SRL,humNRDR,FLJ11008,SDR25C2",14q11.2
+HGNC:19731,DHRS4L2,dehydrogenase/reductase 4 like 2,,SDR25C3,14q11.2
+HGNC:19732,DHRS4L1,dehydrogenase/reductase 4 like 1 (pseudogene),,SDR25C4,14q11.2
+HGNC:5208,HSD11B1,hydroxysteroid 11-beta dehydrogenase 1,"HSD11B,HSD11",SDR26C1,1q32.2
+HGNC:30419,HSD11B1L,hydroxysteroid 11-beta dehydrogenase 1 like,,"SCDR10,SDR26C2,HSD1L",19p13.3
+HGNC:3594,FASN,fatty acid synthase,,"FAS,SDR27X1",17q25.3
+HGNC:5210,HSD17B1,hydroxysteroid 17-beta dehydrogenase 1,"EDHB17,EDH17B2","HSD17,MGC138140,SDR28C1",17q21.2
+HGNC:14423,RDH8,retinol dehydrogenase 8,,"PRRDH,SDR28C2",19p13.2
+HGNC:18281,PECR,peroxisomal trans-2-enoyl-CoA reductase,,"HSA250303,TERP,SDR29C1",2q35
+HGNC:3554,HSD17B8,hydroxysteroid 17-beta dehydrogenase 8,FABGL,"HKE6,D6S2245E,RING2,KE6,H2-KE6,SDR30C1",6p21.32
+HGNC:13398,NSDHL,NAD(P) dependent steroid dehydrogenase-like,,"XAP104,H105e3,SDR31E1",Xq28
+HGNC:24547,DHRS7B,dehydrogenase/reductase 7B,,"DKFZp566O084,MGC8916,CGI-93,SDR32C1",17p11.2
+HGNC:32423,DHRS7C,dehydrogenase/reductase 7C,,SDR32C2,17p13.1
+HGNC:9752,QDPR,quinoid dihydropteridine reductase,,"DHPR,PKU2,SDR33C1",4p15.32
+HGNC:21524,DHRS7,dehydrogenase/reductase 7,,"retDSR4,SDR34C1",14q23.1
+HGNC:4021,KDSR,3-ketodihydrosphingosine reductase,FVT1,"DHSR,SDR35C1",18q21.33
+HGNC:5154,HPGD,15-hydroxyprostaglandin dehydrogenase,,SDR36C1,4q34.1
+HGNC:5215,HSD17B7,hydroxysteroid 17-beta dehydrogenase 7,,"PRAP,SDR37C1",1q23.3
+HGNC:11257,SPR,sepiapterin reductase,,SDR38C1,2p13.2
+HGNC:20275,SDR39U1,short chain dehydrogenase/reductase family 39U member 1,C14orf124,HCDI,14q12
+HGNC:25832,DHRS12,dehydrogenase/reductase 12,,"FLJ13639,SDR40C1",13q14.3
+HGNC:12799,WWOX,WW domain containing oxidoreductase,,"FOR,WOX1,SDR41C1",16q23.1-q23.2
+HGNC:29834,SDR42E1,"short chain dehydrogenase/reductase family 42E, member 1",,HSPC105,16q23.3
+HGNC:35414,SDR42E2,"short chain dehydrogenase/reductase family 42E, member 2",,,16p12.1
+HGNC:1063,BLVRB,biliverdin reductase B,FLR,SDR43U1,19q13.2
+HGNC:16637,HTATIP2,HIV-1 Tat interactive protein 2,,"TIP30,CC3,FLJ26963,SDR44U1",11p15.1
+HGNC:25891,CBR4,carbonyl reductase 4,,"FLJ14431,SDR45C1",4q32.3
+HGNC:23238,HSD17B14,hydroxysteroid 17-beta dehydrogenase 14,DHRS10,"retSDR3,SDR47C1",19q13.33
+HGNC:24987,NMRAL1,NmrA like redox sensor 1,,"FLJ25918,HSCARG,SDR48A1",16p13.3

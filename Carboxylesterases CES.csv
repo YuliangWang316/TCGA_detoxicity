@@ -1,0 +1,6 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:1863,CES1,carboxylesterase 1,,"HMSE,CES2,HMSE1,SES1,CEH,CES1A1,CES1A2",16q12.2
+HGNC:1864,CES2,carboxylesterase 2,,"CE-2,iCE,CES2A1",16q22.1
+HGNC:1865,CES3,carboxylesterase 3,,"FLJ21736,ES31",16q22.1
+HGNC:26741,CES4A,carboxylesterase 4A,CES8,FLJ37464,16q22.1
+HGNC:26459,CES5A,carboxylesterase 5A,CES7,"FLJ31547,CES4C1,CES5,CAUXIN",16q12.2

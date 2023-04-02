@@ -1,0 +1,33 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome,Group
+HGNC:7061,MGST1,microsomal glutathione S-transferase 1,GST12,,12p12.3,Microsomal glutathione S-transferases
+HGNC:7063,MGST2,microsomal glutathione S-transferase 2,,,4q31.1,Microsomal glutathione S-transferases
+HGNC:7064,MGST3,microsomal glutathione S-transferase 3,,,1q24.1,Microsomal glutathione S-transferases
+HGNC:4626,GSTA1,glutathione S-transferase alpha 1,,,6p12.2,Soluble glutathione S-transferases
+HGNC:4627,GSTA2,glutathione S-transferase alpha 2,GST2,,6p12.2,Soluble glutathione S-transferases
+HGNC:4628,GSTA3,glutathione S-transferase alpha 3,,,6p12.2,Soluble glutathione S-transferases
+HGNC:4629,GSTA4,glutathione S-transferase alpha 4,,,6p12.2,Soluble glutathione S-transferases
+HGNC:19662,GSTA5,glutathione S-transferase alpha 5,,,6p12.2,Soluble glutathione S-transferases
+HGNC:4630,GSTA6P,"glutathione S-transferase alpha 6, pseudogene",GSTAP1,,6p12.2,Soluble glutathione S-transferases
+HGNC:4631,GSTA7P,"glutathione S-transferase alpha 7, pseudogene",GSTAP2,,6p12.2,Soluble glutathione S-transferases
+HGNC:49903,GSTA8P,"glutathione S-transferase alpha 8, pseudogene",,,6p12.2,Soluble glutathione S-transferases
+HGNC:49902,GSTA9P,"glutathione S-transferase alpha 9, pseudogene",,,6p12.2,Soluble glutathione S-transferases
+HGNC:49904,GSTA10P,"glutathione S-transferase alpha 10, pseudogene",,,6p12.2,Soluble glutathione S-transferases
+HGNC:49905,GSTA11P,"glutathione S-transferase alpha 11, pseudogene",,,6p12.2,Soluble glutathione S-transferases
+HGNC:49906,GSTA12P,"glutathione S-transferase alpha 12, pseudogene",,,6p12.2,Soluble glutathione S-transferases
+HGNC:16906,GSTK1,glutathione S-transferase kappa 1,,,7q34,Soluble glutathione S-transferases
+HGNC:4632,GSTM1,glutathione S-transferase mu 1,GST1,,1p13.3,Soluble glutathione S-transferases
+HGNC:4634,GSTM2,glutathione S-transferase mu 2,,,1p13.3,Soluble glutathione S-transferases
+HGNC:4635,GSTM3,glutathione S-transferase mu 3,,,1p13.3,Soluble glutathione S-transferases
+HGNC:4636,GSTM4,glutathione S-transferase mu 4,,,1p13.3,Soluble glutathione S-transferases
+HGNC:4637,GSTM5,glutathione S-transferase mu 5,,,1p13.3,Soluble glutathione S-transferases
+HGNC:13312,GSTO1,glutathione S-transferase omega 1,,,10q25.1,Soluble glutathione S-transferases
+HGNC:23064,GSTO2,glutathione S-transferase omega 2,,,10q25.1,Soluble glutathione S-transferases
+HGNC:23065,GSTO3P,"glutathione S-transferase omega 3, pseudogene",GSTO3P1,,3q22.1,Soluble glutathione S-transferases
+HGNC:4638,GSTP1,glutathione S-transferase pi 1,"FAEES3,GST3",,11q13.2,Soluble glutathione S-transferases
+HGNC:17890,HPGDS,hematopoietic prostaglandin D synthase,,,4q22.3,Soluble glutathione S-transferases
+HGNC:4641,GSTT1,glutathione S-transferase theta 1,,,22q11.23 alternate reference locus,Soluble glutathione S-transferases
+HGNC:4642,GSTT2,glutathione S-transferase theta 2 (gene/pseudogene),,,22q11.23,Soluble glutathione S-transferases
+HGNC:33437,GSTT2B,glutathione S-transferase theta 2B,,,22q11.23,Soluble glutathione S-transferases
+HGNC:55078,GSTT3P,"glutathione S-transferase theta 3, pseudogene",,,22q11.23,Soluble glutathione S-transferases
+HGNC:26930,GSTT4,glutathione S-transferase theta 4,GSTTP1,,22q11.23,Soluble glutathione S-transferases
+HGNC:4643,GSTZ1,glutathione S-transferase zeta 1,,,14q24.3,Soluble glutathione S-transferases

@@ -1,0 +1,114 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome,Group
+HGNC:2595,CYP1A1,cytochrome P450 family 1 subfamily A member 1,CYP1,,15q24.1,Cytochrome P450 family 1
+HGNC:2596,CYP1A2,cytochrome P450 family 1 subfamily A member 2,,,15q24.1,Cytochrome P450 family 1
+HGNC:2597,CYP1B1,cytochrome P450 family 1 subfamily B member 1,GLC3A,,2p22.2,Cytochrome P450 family 1
+HGNC:39968,CYP1D1P,"cytochrome P450 family 1 subfamily D member 1, pseudogene",,,9q21.13,Cytochrome P450 family 1
+HGNC:39975,CYP2AB1P,"cytochrome P450 family 2 subfamily AB member 1, pseudogene",,,3q27.1,Cytochrome P450 family 2
+HGNC:39976,CYP2AC1P,"cytochrome P450 family 2 subfamily AC member 1, pseudogene",,,6p12.3,Cytochrome P450 family 2
+HGNC:2610,CYP2A6,cytochrome P450 family 2 subfamily A member 6,CYP2A3,,19q13.2,Cytochrome P450 family 2
+HGNC:2611,CYP2A7,cytochrome P450 family 2 subfamily A member 7,,,19q13.2,Cytochrome P450 family 2
+HGNC:2612,CYP2A7P1,cytochrome P450 family 2 subfamily A member 7 pseudogene 1,,,19q13.2,Cytochrome P450 family 2
+HGNC:2608,CYP2A13,cytochrome P450 family 2 subfamily A member 13,,,19q13.2,Cytochrome P450 family 2
+HGNC:2615,CYP2B6,cytochrome P450 family 2 subfamily B member 6,CYP2B,,19q13.2,Cytochrome P450 family 2
+HGNC:2616,CYP2B7P,"cytochrome P450 family 2 subfamily B member 7, pseudogene",CYP2B7P1,,19q13.2,Cytochrome P450 family 2
+HGNC:2622,CYP2C8,cytochrome P450 family 2 subfamily C member 8,,,10q23.33,Cytochrome P450 family 2
+HGNC:2623,CYP2C9,cytochrome P450 family 2 subfamily C member 9,CYP2C10,,10q23.33,Cytochrome P450 family 2
+HGNC:2620,CYP2C18,cytochrome P450 family 2 subfamily C member 18,CYP2C17,,10q23.33,Cytochrome P450 family 2
+HGNC:2621,CYP2C19,cytochrome P450 family 2 subfamily C member 19,CYP2C,,10q23.33,Cytochrome P450 family 2
+HGNC:39970,CYP2C23P,"cytochrome P450 family 2 subfamily C member 23, pseudogene",CYP2C62P,,10q24.2,Cytochrome P450 family 2
+HGNC:39971,CYP2C56P,"cytochrome P450 family 2 subfamily C member 56, pseudogene",,,2q24.3,Cytochrome P450 family 2
+HGNC:39969,CYP2C58P,"cytochrome P450 family 2 subfamily C member 58, pseudogene",,,10q23.33,Cytochrome P450 family 2
+HGNC:42406,CYP2C59P,"cytochrome P450 family 2 subfamily C member 59, pseudogene",,,10q23.33,Cytochrome P450 family 2
+HGNC:42410,CYP2C60P,"cytochrome P450 family 2 subfamily C member 60, pseudogene",,,10q23.33,Cytochrome P450 family 2
+HGNC:39972,CYP2C61P,"cytochrome P450 family 2 subfamily C member 61, pseudogene",,,10q21.3,Cytochrome P450 family 2
+HGNC:42411,CYP2C63P,"cytochrome P450 family 2 subfamily C member 63, pseudogene",,,21q21.3,Cytochrome P450 family 2
+HGNC:39974,CYP2C64P,"cytochrome P450 family 2 subfamily C member 64, pseudogene",,,Xq28,Cytochrome P450 family 2
+HGNC:42405,CYP2C115P,"cytochrome P450 family 2 subfamily C member 115, pseudogene",,,10q23.33,Cytochrome P450 family 2
+HGNC:2625,CYP2D6,cytochrome P450 family 2 subfamily D member 6,"CYP2DL1,CYP2D7P2,CYP2D7BP,CYP2D8P2,CYP2D7AP",,22q13.2,Cytochrome P450 family 2
+HGNC:2624,CYP2D7,cytochrome P450 family 2 subfamily D member 7 (gene/pseudogene),"CYP2D,CYP2D@,CYP2D7P1,CYP2D7P",,22q13.2,Cytochrome P450 family 2
+HGNC:2628,CYP2D8P,"ccytochrome P450 family 2 subfamily D member 8, pseudogene","CYP2DP1,CYP2D8P1",,22q13.2,Cytochrome P450 family 2
+HGNC:2631,CYP2E1,cytochrome P450 family 2 subfamily E member 1,CYP2E,,10q26.3,Cytochrome P450 family 2
+HGNC:2632,CYP2F1,cytochrome P450 family 2 subfamily F member 1,CYP2F,,19q13.2,Cytochrome P450 family 2
+HGNC:18851,CYP2F2P,"cytochrome P450 family 2 subfamily F member 2, pseudogene",CYP2F1P,,19q13.2,Cytochrome P450 family 2
+HGNC:2633,CYP2G1P,"cytochrome P450 family 2 subfamily G member 1, pseudogene",CYP2G1,,19q13.2,Cytochrome P450 family 2
+HGNC:15653,CYP2G2P,"cytochrome P450 family 2 subfamily G member 2, pseudogene",CYP2G2,,19q13.2,Cytochrome P450 family 2
+HGNC:2634,CYP2J2,cytochrome P450 family 2 subfamily J member 2,,,1p32.1,Cytochrome P450 family 2
+HGNC:20580,CYP2R1,cytochrome P450 family 2 subfamily R member 1,,,11p15.2,Cytochrome P450 family 2
+HGNC:15654,CYP2S1,cytochrome P450 family 2 subfamily S member 1,,,19q13.2,Cytochrome P450 family 2
+HGNC:18852,CYP2T1P,"cytochrome P450 family 2 subfamily T member 1, pseudogene",CYP2T2P,,19q13.2,Cytochrome P450 family 2
+HGNC:18853,CYP2T3P,"cytochrome P450 family 2 subfamily T member 3, pseudogene",,,19q13.2,Cytochrome P450 family 2
+HGNC:20582,CYP2U1,cytochrome P450 family 2 subfamily U member 1,SPG56,,4q25,Cytochrome P450 family 2
+HGNC:20243,CYP2W1,cytochrome P450 family 2 subfamily W member 1,,,7p22.3,Cytochrome P450 family 2
+HGNC:2637,CYP3A4,cytochrome P450 family 3 subfamily A member 4,CYP3A3,,7q22.1,Cytochrome P450 family 3
+HGNC:2638,CYP3A5,cytochrome P450 family 3 subfamily A member 5,,,7q22.1,Cytochrome P450 family 3
+HGNC:2640,CYP3A7,cytochrome P450 family 3 subfamily A member 7,,,7q22.1,Cytochrome P450 family 3
+HGNC:17450,CYP3A43,cytochrome P450 family 3 subfamily A member 43,,,7q22.1,Cytochrome P450 family 3
+HGNC:42418,CYP3A51P,"cytochrome P450 family 3 subfamily A member 51, pseudogene",CYP3A5P1,,7q22.1,Cytochrome P450 family 3
+HGNC:42412,CYP3A52P,"cytochrome P450 family 3 subfamily A member 52, pseudogene",,,7q22.1,Cytochrome P450 family 3
+HGNC:42413,CYP3A54P,"cytochrome P450 family 3 subfamily A member 54, pseudogene",,,7p22.1,Cytochrome P450 family 3
+HGNC:42419,CYP3A137P,"cytochrome P450 family 3 subfamily A member 137, pseudogene",,,7q22.1,Cytochrome P450 family 3
+HGNC:2642,CYP4A11,cytochrome P450 family 4 subfamily A member 11,CYP4A2,,1p33,Cytochrome P450 family 4
+HGNC:20575,CYP4A22,cytochrome P450 family 4 subfamily A member 22,,,1p33,Cytochrome P450 family 4
+HGNC:39980,CYP4A26P,"cytochrome P450 family 4 subfamily A member 26, pseudogene",,,1p33,Cytochrome P450 family 4
+HGNC:42414,CYP4A27P,"cytochrome P450 family 4 subfamily A member 27, pseudogene",,,1p33,Cytochrome P450 family 4
+HGNC:42417,CYP4A43P,"cytochrome P450 family 4 subfamily A member 43, pseudogene",,,1p33,Cytochrome P450 family 4
+HGNC:42416,CYP4A44P,"cytochrome P450 family 4 subfamily A member 44, pseudogene",,,1p33,Cytochrome P450 family 4
+HGNC:2644,CYP4B1,cytochrome P450 family 4 subfamily B member 1,,,1p33,Cytochrome P450 family 4
+HGNC:2645,CYP4F2,cytochrome P450 family 4 subfamily F member 2,,,19p13.12,Cytochrome P450 family 4
+HGNC:2646,CYP4F3,cytochrome P450 family 4 subfamily F member 3,LTB4H,,19p13.12,Cytochrome P450 family 4
+HGNC:2648,CYP4F8,cytochrome P450 family 4 subfamily F member 8,,,19p13.12,Cytochrome P450 family 4
+HGNC:39940,CYP4F9P,"cytochrome P450 family 4 subfamily F member 9, pseudogene",,,19p13.12,Cytochrome P450 family 4
+HGNC:39943,CYP4F10P,"cytochrome P450 family 4 subfamily F member 10, pseudogene",,,19p13.12,Cytochrome P450 family 4
+HGNC:13265,CYP4F11,cytochrome P450 family 4 subfamily F member 11,,,19p13.12,Cytochrome P450 family 4
+HGNC:18857,CYP4F12,cytochrome P450 family 4 subfamily F member 12,,,19p13.12,Cytochrome P450 family 4
+HGNC:26820,CYP4F22,cytochrome P450 family 4 subfamily F member 22,,,19p13.12,Cytochrome P450 family 4
+HGNC:39944,CYP4F23P,"cytochrome P450 family 4 subfamily F member 23, pseudogene",,,19p13.12,Cytochrome P450 family 4
+HGNC:39945,CYP4F24P,"cytochrome P450 family 4 subfamily F member 24, pseudogene",,,19p13.12,Cytochrome P450 family 4
+HGNC:39949,CYP4F25P,"cytochrome P450 family 4 subfamily F member 25, pseudogene",,,9q13,Cytochrome P450 family 4
+HGNC:39948,CYP4F26P,"cytochrome P450 family 4 subfamily F member 26, pseudogene",,,9p13.3,Cytochrome P450 family 4
+HGNC:39946,CYP4F27P,"cytochrome P450 family 4 subfamily F member 27, pseudogene",,,2q21.1,Cytochrome P450 family 4
+HGNC:2647,CYP4F29P,"cytochrome P450 family 4 subfamily F member 29, pseudogene","C21orf15,CYP4F3LP",,21q11.2,Cytochrome P450 family 4
+HGNC:25270,CYP4F30P,"cytochrome P450 family 4 subfamily F member 30, pseudogene",C2orf14,,2q21.1,Cytochrome P450 family 4
+HGNC:39955,CYP4F31P,"cytochrome P450 family 4 subfamily F member 31, pseudogene",,,2q21.1,Cytochrome P450 family 4
+HGNC:39951,CYP4F32P,"cytochrome P450 family 4 subfamily F member 32, pseudogene",,,2q11.1,Cytochrome P450 family 4
+HGNC:39952,CYP4F33P,"cytochrome P450 family 4 subfamily F member 33, pseudogene",,,9p13.1,Cytochrome P450 family 4
+HGNC:39953,CYP4F34P,"cytochrome P450 family 4 subfamily F member 34, pseudogene",,,13q11,Cytochrome P450 family 4
+HGNC:39954,CYP4F35P,"cytochrome P450 family 4 subfamily F member 35, pseudogene",,,18p11.21,Cytochrome P450 family 4
+HGNC:42407,CYP4F36P,"cytochrome P450 family 4 subfamily F member 36, pseudogene",,,19p13.12,Cytochrome P450 family 4
+HGNC:39957,CYP4F44P,"cytochrome P450 family 4 subfamily F member 44, pseudogene",,,8p11.1,Cytochrome P450 family 4
+HGNC:39950,CYP4F45P,"cytochrome P450 family 4 subfamily F member 45, pseudogene",,,9p12,Cytochrome P450 family 4
+HGNC:39947,CYP4F59P,"cytochrome P450 family 4 subfamily F member 59, pseudogene",,,9q21.11,Cytochrome P450 family 4
+HGNC:42468,CYP4F60P,"cytochrome P450 family 4 subfamily F member 60, pseudogene",,,9p11.1,Cytochrome P450 family 4
+HGNC:42469,CYP4F61P,"cytochrome P450 family 4 subfamily F member 61, pseudogene",,,9q13,Cytochrome P450 family 4
+HGNC:39956,CYP4F62P,"cytochrome P450 family 4 subfamily F member 62, pseudogene",CYP4F43P,,2q21.1,Cytochrome P450 family 4
+HGNC:23198,CYP4V2,cytochrome P450 family 4 subfamily V member 2,,,4q35.1-q35.2,Cytochrome P450 family 4
+HGNC:20244,CYP4X1,cytochrome P450 family 4 subfamily X member 1,,,1p33,Cytochrome P450 family 4
+HGNC:20583,CYP4Z1,cytochrome P450 family 4 subfamily Z member 1,,,1p33,Cytochrome P450 family 4
+HGNC:24426,CYP4Z2P,"cytochrome P450 family 4 subfamily Z member 2, pseudogene",,,1p33,Cytochrome P450 family 4
+HGNC:11609,TBXAS1,thromboxane A synthase 1,,,7q34,Cytochrome P450 family 5
+HGNC:2651,CYP7A1,cytochrome P450 family 7 subfamily A member 1,CYP7,,8q12.1,Cytochrome P450 family 7
+HGNC:2652,CYP7B1,cytochrome P450 family 7 subfamily B member 1,SPG5A,,8q12.3,Cytochrome P450 family 7
+HGNC:9603,PTGIS,prostaglandin I2 synthase,,,20q13.13,Cytochrome P450 family 8
+HGNC:2653,CYP8B1,cytochrome P450 family 8 subfamily B member 1,,,3p22.1,Cytochrome P450 family 8
+HGNC:2590,CYP11A1,cytochrome P450 family 11 subfamily A member 1,CYP11A,,15q24.1,Cytochrome P450 family 11
+HGNC:2591,CYP11B1,cytochrome P450 family 11 subfamily B member 1,CYP11B,,8q24.3,Cytochrome P450 family 11
+HGNC:2592,CYP11B2,cytochrome P450 family 11 subfamily B member 2,CYP11B,,8q24.3,Cytochrome P450 family 11
+HGNC:2593,CYP17A1,cytochrome P450 family 17 subfamily A member 1,CYP17,,10q24.32,Cytochrome P450 family 17
+HGNC:2594,CYP19A1,cytochrome P450 family 19 subfamily A member 1,CYP19,,15q21.2,Cytochrome P450 family 19
+HGNC:20576,CYP20A1,cytochrome P450 family 20 subfamily A member 1,,,2q33.2,Cytochrome P450 family 20
+HGNC:2599,CYP21A1P,"cytochrome P450 family 21 subfamily A member 1, pseudogene","CYP21P,CYP21A",,6p21.33,Cytochrome P450 family 21
+HGNC:2600,CYP21A2,cytochrome P450 family 21 subfamily A member 2,"CYP21,CYP21B",,6p21.33,Cytochrome P450 family 21
+HGNC:2602,CYP24A1,cytochrome P450 family 24 subfamily A member 1,CYP24,,20q13.2,Cytochrome P450 family 24
+HGNC:2603,CYP26A1,cytochrome P450 family 26 subfamily A member 1,,,10q23.33,Cytochrome P450 family 26
+HGNC:20581,CYP26B1,cytochrome P450 family 26 subfamily B member 1,,,2p13.2,Cytochrome P450 family 26
+HGNC:20577,CYP26C1,cytochrome P450 family 26 subfamily C member 1,,,10q23.33,Cytochrome P450 family 26
+HGNC:2605,CYP27A1,cytochrome P450 family 27 subfamily A member 1,CYP27,,2q35,Cytochrome P450 family 27
+HGNC:2606,CYP27B1,cytochrome P450 family 27 subfamily B member 1,"VDD1,PDDR",,12q14.1,Cytochrome P450 family 27
+HGNC:33480,CYP27C1,cytochrome P450 family 27 subfamily C member 1,,,2q14.3,Cytochrome P450 family 27
+HGNC:17449,CYP39A1,cytochrome P450 family 39 subfamily A member 1,,,6p12.3,Cytochrome P450 family 39
+HGNC:2641,CYP46A1,cytochrome P450 family 46 subfamily A member 1,CYP46,,14q32.2,Cytochrome P450 family 46
+HGNC:42349,CYP46A4P,"cytochrome P450 family 46 subfamily A member 4, pseudogene",,,1p33,Cytochrome P450 family 46
+HGNC:2649,CYP51A1,cytochrome P450 family 51 subfamily A member 1,CYP51,,7q21.2,Cytochrome P450 family 51
+HGNC:20245,CYP51A1P1,cytochrome P450 family 51 subfamily A member 1 pseudogene 1,CYP51P1,,3p12.2,Cytochrome P450 family 51
+HGNC:20251,CYP51A1P2,cytochrome P450 family 51 subfamily A member 1 pseudogene 2,CYP51P2,,13q12.3,Cytochrome P450 family 51
+HGNC:41991,CYP51A1P3,cytochrome P450 family 51 subfamily A member 1 pseudogene 3,CYP51P3,,6q24.3,Cytochrome P450 family 51

@@ -1,0 +1,12 @@
+HGNC ID gene,Approved symbol,Approved name,Previous symbols,Aliases,Chromosome
+HGNC:3769,FMO1,flavin containing dimethylaniline monoxygenase 1,,,1q24.3
+HGNC:3770,FMO2,flavin containing dimethylaniline monoxygenase 2,,,1q24.3
+HGNC:3771,FMO3,flavin containing dimethylaniline monoxygenase 3,,FMOII,1q24.3
+HGNC:3772,FMO4,flavin containing dimethylaniline monoxygenase 4,FMO2,,1q24.3
+HGNC:3773,FMO5,flavin containing dimethylaniline monoxygenase 5,,,1q21.1
+HGNC:24024,FMO6P,"flavin containing dimethylaniline monoxygenase 6, pseudogene",FMO6,,1q24.3
+HGNC:32208,FMO7P,"flavin containing dimethylaniline monoxygenase 7, pseudogene",,,1q24.1
+HGNC:32209,FMO8P,"flavin containing dimethylaniline monoxygenase 8, pseudogene",,,1q24.1
+HGNC:32210,FMO9P,"flavin containing dimethylaniline monoxygenase 9, pseudogene",,RP11-45J16.2,1q24.1
+HGNC:32211,FMO10P,"flavin containing dimethylaniline monoxygenase 10, pseudogene",,,1q24.1
+HGNC:32212,FMO11P,"flavin containing dimethylaniline monoxygenase 11, pseudogene",,,1q24.1
