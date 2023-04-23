@@ -146,7 +146,7 @@ g1<-DoHeatmap(pbmc, features = top10$gene)
 library(ggplot2)
 ggsave(g1,filename = "c:/Users/xjmik/Desktop/Detoxicity_2/GSE98638_celltype.pdf",width = 10,height = 15)
 Idents(pbmc)<-pbmc$Bulksample
-pbmc.markers_detoxicity %>%
+pbmc.markers_detoxicity_big %>%
   group_by(cluster) %>%
   top_n(n = 10, wt = avg_log2FC) -> top10
 g2<-DoHeatmap(pbmc, features = top10$gene)
